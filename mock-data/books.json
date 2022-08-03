@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "623f252dfd9159ecab260174"
+  },
+  "title": "The Light Fantastic",
+  "genre": "Fantasy",
+  "authorId": "623f1620fd9159ecab26016e"
+},{
+  "_id": {
+    "$oid": "623f25e2fd9159ecab260175"
+  },
+  "title": "The Belgariad",
+  "genre": "Fantasy",
+  "authorId": "623f16cefd9159ecab260170"
+},{
+  "_id": {
+    "$oid": "623f262efd9159ecab26017a"
+  },
+  "title": "The Hobbit",
+  "genre": "Fantasy",
+  "authorId": "623f1712fd9159ecab260171"
+},{
+  "_id": {
+    "$oid": "623f264bfd9159ecab26017b"
+  },
+  "title": "The Lord of the Rings",
+  "genre": "Fantasy",
+  "authorId": "623f1712fd9159ecab260171"
+},{
+  "_id": {
+    "$oid": "623f2750fd9159ecab26017c"
+  },
+  "title": "The Colour of Magic",
+  "genre": "Fantasy",
+  "authorId": "623f1620fd9159ecab26016e"
+},{
+  "_id": {
+    "$oid": "623f277cfd9159ecab26017d"
+  },
+  "title": "Mort",
+  "genre": "Fantasy",
+  "authorId": "623f1620fd9159ecab26016e"
+},{
+  "_id": {
+    "$oid": "623f28b7fd9159ecab26017e"
+  },
+  "title": "The Malloreon",
+  "genre": "Fantasy",
+  "authorId": "623f16cefd9159ecab260170"
+},{
+  "_id": {
+    "$oid": "623f31c5fd9159ecab26018f"
+  },
+  "title": "Thrawn",
+  "genre": "Sci-Fi",
+  "authorId": "623f169cfd9159ecab26016f"
+},{
+  "_id": {
+    "$oid": "623f323dfd9159ecab260190"
+  },
+  "title": "Outbound Flight",
+  "genre": "Sci-Fi",
+  "authorId": "623f169cfd9159ecab26016f"
+},{
+  "_id": {
+    "$oid": "623f325ffd9159ecab260191"
+  },
+  "title": "Survivor's Quest",
+  "genre": "Sci-Fi",
+  "authorId": "623f169cfd9159ecab26016f"
+},{
+  "_id": {
+    "$oid": "623f3295fd9159ecab260192"
+  },
+  "title": "Allegiance",
+  "genre": "Sci-Fi",
+  "authorId": "623f169cfd9159ecab26016f"
+},{
+  "_id": {
+    "$oid": "623f32bbfd9159ecab260193"
+  },
+  "title": "Scoundrels",
+  "genre": "Sci-Fi",
+  "authorId": "623f169cfd9159ecab26016f"
+},{
+  "_id": {
+    "$oid": "6241e78a97fa3893a7d2fb6a"
+  },
+  "title": "Hogfather",
+  "genre": "Fantasy",
+  "authorId": "623f1620fd9159ecab26016e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6241e86997fa3893a7d2fb70"
+  },
+  "title": "Thud",
+  "genre": "Fantasy",
+  "authorId": "623f1620fd9159ecab26016e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "624206dc5ad5ac7956e17db1"
+  },
+  "title": "The Silmarillion ",
+  "genre": "Fantasy",
+  "authorId": "623f1712fd9159ecab260171",
+  "__v": 0
+}]

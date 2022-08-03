@@ -1,0 +1,33 @@
+{
+  "name": "tangerine-digital-server",
+  "version": "1.0.0",
+  "description": "Tangerine Digital API",
+  "keywords": [],
+  "author": "Xander Grant",
+  "license": "ISC",
+  "scripts": {
+    "start": "node src/server.js",
+    "devstart": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.7"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.19"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

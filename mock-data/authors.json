@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "623f1620fd9159ecab26016e"
+  },
+  "name": "Terry Pratchett",
+  "age": 66
+},{
+  "_id": {
+    "$oid": "623f169cfd9159ecab26016f"
+  },
+  "name": "Timothy Zahn",
+  "age": 70
+},{
+  "_id": {
+    "$oid": "623f16cefd9159ecab260170"
+  },
+  "name": "David Eddings",
+  "age": 77
+},{
+  "_id": {
+    "$oid": "623f1712fd9159ecab260171"
+  },
+  "name": "J R R Tolkien",
+  "age": 81
+}]

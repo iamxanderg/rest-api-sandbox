@@ -1,0 +1,13 @@
+### Request Tests
+
+
+### Authors
+GET http://localhost:1337/authors
+###
+GET http://localhost:1337/authors/623f1620fd9159ecab26016e
+
+
+### Books
+GET http://localhost:1337/books
+###
+GET http://localhost:1337/books/623f262efd9159ecab26017a
