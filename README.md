@@ -39,5 +39,5 @@ You will also see any errors in the console.
 # Run rest api tests
 Goto the 'rest-tests' folder and open the 'route.rest' file.
 Click on the 'send request' link above each rest call you want to test.
-If using VS Code the results will be displayed in a newly opened editor window tab.
+A tab will open showing results of the rest test.
 ```
