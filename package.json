@@ -1,12 +1,10 @@
 {
-  "name": "tangerine-digital-server",
+  "name": "rest-api-sandbox",
   "version": "1.0.0",
-  "description": "Tangerine Digital API",
+  "description": "Tangerine Digital rest API sandbox",
   "keywords": [],
-  "author": "Xander Grant",
-  "license": "ISC",
+  "author": "iamxanderg",
   "scripts": {
-    "start": "node src/server.js",
     "devstart": "nodemon src/server.js"
   },
   "dependencies": {
