@@ -37,7 +37,7 @@ You will also see any errors in the console.
 
 ```bash
 # Run rest api tests
-Open route.rest file in the rest-tests folder
-Click on the 'send request' link for each rest call you want to test.
+Goto the 'rest-tests' folder and open the 'route.rest' file.
+Click on the 'send request' link above each rest call you want to test.
 If using VS Code the results will be displayed in a newly opened editor window tab.
 ```
