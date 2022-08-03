@@ -5,6 +5,7 @@ A project I created to learn how to build rest APIs using node and MongoDB
 ## Contents
 
 - [Getting Started](#getting-started)
+- [Update Your Environment File] (#update-your-environment-file)
 - [Starting The Development Server](#starting-the-development-server)
 - [Running Tests](#running-tests)
 
@@ -22,6 +23,10 @@ cd rest-api-sandbox
 # Run the install
 npm i
 ```
+
+## Update Your Environment File
+
+Update the details in the .env file to match your environment.
 
 ## Start The Development Server
 
