@@ -1,6 +1,6 @@
 # rest-api-sandbox
 
-A project I created to learn how to build rest APIs using node and MongoDB
+A project I created to learn how to build an APIs library using node, MongoDB and Rest
 
 ## Contents
 
@@ -60,9 +60,6 @@ A tab will open showing results of the rest test.
 These instructions will get a copy of the project up and running on your local machine for development and testing purposes.
 
 ```bash
-# Clone the project to your machine
-git clone git@github.com:iamxanderg/rest-api-sandbox.git
-
 # Navigate to the project folder
 cd rest-api-sandbox/client
 
@@ -77,4 +74,4 @@ npm i
 npm start
 ```
 
-You will also see any errors in the console.
+You will see any errors in the console.
