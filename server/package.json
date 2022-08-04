@@ -1,7 +1,7 @@
 {
   "name": "rest-api-sandbox",
   "version": "1.0.0",
-  "description": "Tangerine Digital rest API sandbox",
+  "description": "Tangerine Digital rest API server sandbox",
   "keywords": [],
   "author": "iamxanderg",
   "scripts": {
