@@ -7,7 +7,11 @@ router.get('/', getBook, (req, res) => {
 });
 
 router.get('/:id', getBook, (req, res) => {
-  res.send(res.book.title);
+  res.send({
+    title: res.book.title,
+    genre: res.book.genre,
+    id: res.book.id,
+  });
 });
 
 async function getBook(req, res, next) {
