@@ -50,7 +50,7 @@ You will also see any errors in the console.
 
 ```bash
 # Run rest api tests
-Goto the 'rest-tests' folder and open the 'route.rest' file.
+Go to the 'rest-tests' folder and open the 'route.rest' file.
 Click on the 'send request' link above each rest call you want to test.
 A tab will open showing results of the rest test.
 ```
